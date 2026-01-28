@@ -18,9 +18,9 @@
   <a href="https://solved.ac/keygenerator">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=keygenerator">
   </a>
-  <br>
+  <br><br>
   <a href="https://programmers.co.kr/users/keygenerator">
-    <img src="https://img.shields.io/badge/Programmers-000524?style=flat-square&logo=Programmers&logoColor=white">
+    <img src="https://img.shields.io/badge/Programmers-000524?style=for-the-badge&logo=programmers&logoColor=white">
   </a>
 </p>
 
