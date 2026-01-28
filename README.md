@@ -18,9 +18,7 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=keygenerator">
   </a>
   <br><br>
-  <img src="https://img.shields.io/badge/Programmers-1,374점-7B68EE?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Solved-32문제-00C4B3?style=for-the-badge">
-  <img src="https://img.shields.io/badge/상위_61.2점-TOP_Tier-FF6B6B?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Programmers-Lv.3-7B68EE?style=for-the-badge">
 </p>
 
 ---
