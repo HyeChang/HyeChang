@@ -26,8 +26,6 @@
 ---
 
 ### ✨ About Me
-* **Role:** MES(Manufacturing Execution System) Developer 🛠️
-* **Location:** Masan, South Korea 📍
-* **Interests:** Tech Stocks(Samsung, MSFT, Meta) 📈, Mechanical Keyboards(Samsung, MSFT, Meta) 📈, Mechanical Keyboards(Lofree Flow 2) ⌨️, Decaf Coffee ☕
+* **Role:** Back-End Developer 🛠️
 
 </div>
