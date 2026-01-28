@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
 </p>
 
-
 ---
 
 ### 🏆 Problem Solving
@@ -19,8 +18,9 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=keygenerator">
   </a>
   <br><br>
-![HyeChang's Programmers Stats]
-  (https://programmers-readme-stats.vercel.app/api?username=keygenerator&theme=radical)
+  <a href="https://programmers.co.kr/users/keygenerator">
+    <img src="https://programmers-readme-stats.vercel.app/api?username=keygenerator&theme=radical">
+  </a>
 </p>
 
 ---
