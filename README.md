@@ -18,9 +18,9 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=keygenerator">
   </a>
   <br><br>
-  <a href="https://programmers.co.kr/users/keygenerator">
-    <img src="https://programmers-readme-stats.vercel.app/api?username=keygenerator&theme=radical">
-  </a>
+  <img src="https://img.shields.io/badge/Programmers-1,374점-7B68EE?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Solved-32문제-00C4B3?style=for-the-badge">
+  <img src="https://img.shields.io/badge/상위_61.2점-TOP_Tier-FF6B6B?style=for-the-badge">
 </p>
 
 ---
@@ -28,6 +28,6 @@
 ### ✨ About Me
 * **Role:** MES(Manufacturing Execution System) Developer 🛠️
 * **Location:** Masan, South Korea 📍
-* **Interests:** Tech Stocks(Samsung, MSFT, Meta) 📈, Mechanical Keyboards(Lofree Flow 2) ⌨️, Decaf Coffee ☕
+* **Interests:** Tech Stocks(Samsung, MSFT, Meta) 📈, Mechanical Keyboards(Samsung, MSFT, Meta) 📈, Mechanical Keyboards(Lofree Flow 2) ⌨️, Decaf Coffee ☕
 
 </div>
