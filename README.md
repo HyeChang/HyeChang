@@ -10,6 +10,14 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
 </p>
 
+---
+
+### 📊 GitHub Stats (Dark Mode)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=HyeChang&show_icons=true&theme=radical&hide_border=true">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyeChang&layout=compact&theme=radical&hide_border=true">
+</p>
 
 ---
 
@@ -17,6 +25,10 @@
 <p align="center">
   <a href="https://solved.ac/keygenerator">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=keygenerator">
+  </a>
+  <br>
+  <a href="https://programmers.co.kr/users/keygenerator">
+    <img src="https://img.shields.io/badge/Programmers-000524?style=flat-square&logo=Programmers&logoColor=white">
   </a>
 </p>
 
