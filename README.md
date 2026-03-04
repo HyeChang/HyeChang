@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm HyeChang!
+# 🛠️ Back-End Developer | Java & Spring
 
 ### 💻 Tech Stack
 
