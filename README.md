@@ -41,9 +41,4 @@
   </a>
 </p>
 
----
-
-### ✨ About Me
-* **Role:** Back-End Developer 🛠️
-
 </div>
